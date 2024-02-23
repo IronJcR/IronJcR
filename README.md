@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaima</h1>
 <h3 align="center">Passionate about Artificial Intelligence and Data Science, with a keen interest in leveraging algorithmic intelligence through mobile and web application development</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=pxe6U%2fxnjrV9eQ&pid=ImgRaw&r=0"/>
+<img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=pxe6U%2fxnjrV9eQ&pid=ImgRaw&r=0"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimamed&label=Profile%20views&color=0e75b6&style=flat" alt="chaimamed" /> </p>
 
@@ -12,12 +12,12 @@
 
 - 📫 How to reach me **chaimaamermeddah@gmail.com**
 
-- 📄 Know about my experiences [Teacher Training](Teacher Training)
+- 📄 Know about my experiences [Teacher Training].
 
 - ⚡ Fun fact **I think I'm surious person**
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/chaima210323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaima210323" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chaima meddah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaima meddah" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chaimaamermeddah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chaimaamermeddah" height="30" width="40" /></a>
