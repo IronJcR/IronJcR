@@ -2,9 +2,9 @@
 <h3 align="center">Passionate about  Data Science, with a keen interest in leveraging algorithmic intelligence through mobile and web application development</h3>
 <img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=pxe6U%2fxnjrV9eQ&pid=ImgRaw&r=0"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimamed&label=Profile%20views&color=0e75b6&style=flat" alt="chaimamed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IronChimera&label=Profile%20views&color=0e75b6&style=flat" alt="chaimamed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chaima210323" target="blank"><img src="https://img.shields.io/twitter/follow/chaima210323?logo=twitter&style=for-the-badge" alt="chaima210323" /></a> </p>
+<p align="left"> </p>
 
 - 🌱 I’m currently learning **AI and Problem Solving**
 
