@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaima</h1>
-<h3 align="center">Passionate about  Data Science, with a keen interest in leveraging algorithmic intelligence through mobile and web application development</h3>
+<h3 align="center">Passionate about learning how to solve business problems, with a keen interest in leveraging algorithmic intelligence through mobile and web application development</h3>
 <img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=pxe6U%2fxnjrV9eQ&pid=ImgRaw&r=0"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IronChimera&label=Profile%20views&color=0e75b6&style=flat" alt="chaimamed" /> </p>
