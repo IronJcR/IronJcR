@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Python , java , MERN , Data Mining ,DevOps**
 
-- 📫 How to reach me **chaimaamermeddah@gmail.com**
-
 - 📄 Know about my experiences [Teacher Training].
 
 - ⚡ Fun fact **I think I'm surious person**
