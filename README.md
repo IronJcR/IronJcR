@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI and Problem Solving**
 
-- 💬 Ask me about **<ul><li>Python</li> , <li>java</li> ,<li> Dart & Flutter </li>,<li> Data Mining </li>,<li>DevOps</li>**
+- 💬 Ask me about **<ul><li>Python</li><li>java</li><li> Dart & Flutter </li><li> Data Mining </li><li>DevOps</li></ul>**
 
 - 📄 Know about my experiences [Teacher Training].
 
