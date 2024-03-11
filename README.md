@@ -6,7 +6,7 @@
 
 <p align="left"> </p>
 
-- 🌱 I’m currently learning **AI and Problem Solving**
+- 🌱 I’m currently learning **Data Science and Problem Solving**
 
 - 📄 Know about my experiences [Teacher Training].
 
