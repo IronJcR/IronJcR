@@ -6,12 +6,12 @@
 Start learning how to solve problems." 🧵</i>
 </p>
 
-<p align="left"> 
+<p align="left"> </p>
 
 - 📄 Know about my experiences [Teacher Training].
 
 - ⚡ Fun fact **I think I'm surious person**
-  </p>
+
 <br>
 <br>
 <br>
