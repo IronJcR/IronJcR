@@ -2,7 +2,9 @@
 <h3 align="center">Passionate about learning how to solve business problems, with a keen interest in leveraging algorithmic intelligence through mobile and web application development</h3>
 <img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=pxe6U%2fxnjrV9eQ&pid=ImgRaw&r=0"/>
 
-
+<p align="center">Stop learning data science. <br>
+Start learning how to solve problems. 🧵
+</p>
 
 <p align="left"> </p>
 
